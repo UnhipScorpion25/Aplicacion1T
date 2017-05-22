@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Smite</string>
+    <string name="crear_perfil">Crea tu perfil, Aqui</string>
+    <string name="hint_correo">Correo</string>
+    <string name="hint_contraseña">Contraseña</string>
+    <string name="text_button_login">Entrar</string>
+    <string name="tomar_foto">Tomar foto</string>
+    <string name="text_button_createaccount">Registrarse</string>
+    <string name="hint_confirm_Password">Confirmar contraseña</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_email">Correo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="crono_text">A ver si puedes ganar la partida en 20 minutos</string>
+    <string name="foto_text">Comparte una foto tuya dizfrasado de tu main</string>
+    <string name="buscar_tiempos">Busca los tiempos de tus partidas</string>
+    <string name="hint_tiempo">Tiempo</string>
+    <string name="hint_nombre_par">Nombre de la partida</string>
+</resources>

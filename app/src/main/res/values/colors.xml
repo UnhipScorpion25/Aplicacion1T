@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAtras">#40ffd9</color>
+    <color name="backgroundtext_card">#787878</color>
+    <color name="editTextColorWhite">#FFFFFF</color>
+    <color name="editTextColorBlack">#000000</color>
+    <color name="backgroundtext_card2">#53292929</color>
+    <color name="boton_normal">#53459411</color>
+    <color name="boton_presionado">#5363da14</color>
+</resources>

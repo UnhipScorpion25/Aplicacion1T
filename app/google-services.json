@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "586515643575",
+    "firebase_url": "https://smitet-136ab.firebaseio.com",
+    "project_id": "smitet-136ab",
+    "storage_bucket": "smitet-136ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586515643575:android:305f5d69e2946cf7",
+        "android_client_info": {
+          "package_name": "com.platzi.aplicacion1t"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586515643575-pbt3l9srn8hirpfe7j3g6b6oueuunb80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP-FoLn-tJcie2wrUI8sDYyFGQaZnzRbM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
